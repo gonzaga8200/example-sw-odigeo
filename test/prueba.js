@@ -1,0 +1,1 @@
+console.log('Respuesta ajax')
